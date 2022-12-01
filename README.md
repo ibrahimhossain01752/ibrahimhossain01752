@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimhossain01752&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimhossain01752" /> </p>
 
-- 🔭 I’m currently working on [Sports Car](https://toyoya-car.web.app/)
+- 🔭 I’m currently working on TypeScript project
 
-- 🌱 I’m currently learning **React Naive, Javascript**
+- 🌱 I’m currently learning **TypeScript and Redux**
 
 - 💬 Ask me about **React**
 
